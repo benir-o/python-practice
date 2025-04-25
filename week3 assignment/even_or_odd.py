@@ -5,3 +5,4 @@ def check(number):
         print("odd!")
 
 check(9)
+#Finished

@@ -4,3 +4,4 @@ def get_factorial(number):
         digit*=i
     return digit
 print(get_factorial(3))
+#Finished

@@ -5,3 +5,4 @@ def find_sum(mylist):
     return summation
 mylist=[1,2,3,4,5]
 print(find_sum(mylist))
+#Finished

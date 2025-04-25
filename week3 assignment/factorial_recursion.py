@@ -5,3 +5,4 @@ def find_factorial(number):
         return number*find_factorial(number-1)
 
 print(find_factorial(3))
+#Finished

@@ -9,5 +9,6 @@ def word_reversal(word_detail):
         j-=1
 
 word_reversal(word)
+#Finished
 
 

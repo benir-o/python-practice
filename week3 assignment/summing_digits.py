@@ -7,6 +7,7 @@ def summing_the_number(number):
         accumulator+=item
     return accumulator
 print(summing_the_number(number_input))
+#Finished
 
 
 
