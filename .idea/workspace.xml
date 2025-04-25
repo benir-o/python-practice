@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2742099-c8e8-434c-b4e7-7e645c7dfe5c" name="Changes" comment="factorial by recursion" />
+    <list default="true" id="d2742099-c8e8-434c-b4e7-7e645c7dfe5c" name="Changes" comment="factorial by use of for-loops">
+      <change afterPath="$PROJECT_DIR$/week3 assignment/string_reversing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,21 +28,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "benir-o"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;benir-o&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/benir-o/python-practice",
-    "accountId": "f5c447aa-cc97-4b3c-84b7-18284886f960"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/benir-o/python-practice&quot;,
+    &quot;accountId&quot;: &quot;f5c447aa-cc97-4b3c-84b7-18284886f960&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2wD41yhAefbaomv6QVLiUY1jcJf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,6 +53,7 @@
   "keyToString": {
     "Python.even_or_odd.executor": "Run",
     "Python.factorial_loop.executor": "Run",
+    "Python.string_reversing.executor": "Run",
     "Python.summing_list_elements.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "first-assignment"
@@ -111,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745564871579</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="factorial by use of for-loops">
+      <option name="closed" value="true" />
+      <created>1745571309237</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745571309237</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +141,7 @@
     <MESSAGE value="creation of assignment folder" />
     <MESSAGE value="checking if no. is even or odd" />
     <MESSAGE value="factorial by recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="factorial by recursion" />
+    <MESSAGE value="factorial by use of for-loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="factorial by use of for-loops" />
   </component>
 </project>
