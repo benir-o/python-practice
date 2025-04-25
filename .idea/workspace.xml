@@ -1,15 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2742099-c8e8-434c-b4e7-7e645c7dfe5c" name="Changes" comment="" />
+    <list default="true" id="d2742099-c8e8-434c-b4e7-7e645c7dfe5c" name="Changes" comment="checking if no. is even or odd">
+      <change afterPath="$PROJECT_DIR$/week3 assignment/factorial_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "benir-o"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/benir-o/python-practice",
+    "accountId": "f5c447aa-cc97-4b3c-84b7-18284886f960"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -21,8 +52,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.even_or_odd.executor": "Run",
+    "Python.factorial_loop.executor": "Run",
+    "Python.summing_list_elements.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "first-assignment"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -41,6 +75,47 @@
       <option name="presentableId" value="Default" />
       <updated>1745562600202</updated>
     </task>
+    <task id="LOCAL-00001" summary="creation of assignment folder">
+      <option name="closed" value="true" />
+      <created>1745562832786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745562832786</updated>
+    </task>
+    <task id="LOCAL-00002" summary="creation of assignment folder">
+      <option name="closed" value="true" />
+      <created>1745563309968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745563309968</updated>
+    </task>
+    <task id="LOCAL-00003" summary="checking if no. is even or odd">
+      <option name="closed" value="true" />
+      <created>1745563520346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745563520346</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creation of assignment folder" />
+    <MESSAGE value="checking if no. is even or odd" />
+    <option name="LAST_COMMIT_MESSAGE" value="checking if no. is even or odd" />
   </component>
 </project>
