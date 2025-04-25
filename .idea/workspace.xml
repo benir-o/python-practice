@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2742099-c8e8-434c-b4e7-7e645c7dfe5c" name="Changes" comment="checking if no. is even or odd">
-      <change afterPath="$PROJECT_DIR$/week3 assignment/factorial_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d2742099-c8e8-434c-b4e7-7e645c7dfe5c" name="Changes" comment="factorial by recursion" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745563520346</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="factorial by recursion">
+      <option name="closed" value="true" />
+      <created>1745564125697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745564125697</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creation of assignment folder" />
     <MESSAGE value="checking if no. is even or odd" />
-    <option name="LAST_COMMIT_MESSAGE" value="checking if no. is even or odd" />
+    <MESSAGE value="factorial by recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="factorial by recursion" />
   </component>
 </project>
