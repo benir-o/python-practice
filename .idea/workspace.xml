@@ -1,18 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2742099-c8e8-434c-b4e7-7e645c7dfe5c" name="Changes" comment="" />
+    <list default="true" id="d2742099-c8e8-434c-b4e7-7e645c7dfe5c" name="Changes" comment="summing digits a user inputs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;benir-o&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/benir-o/python-practice&quot;,
+    &quot;accountId&quot;: &quot;f5c447aa-cc97-4b3c-84b7-18284886f960&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2wD41yhAefbaomv6QVLiUY1jcJf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,8 +50,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.even_or_odd.executor": "Run",
+    "Python.factorial_loop.executor": "Run",
+    "Python.string_reversing.executor": "Run",
+    "Python.summing_digits.executor": "Run",
+    "Python.summing_list_elements.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "first-assignment"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -41,6 +75,91 @@
       <option name="presentableId" value="Default" />
       <updated>1745562600202</updated>
     </task>
+    <task id="LOCAL-00001" summary="creation of assignment folder">
+      <option name="closed" value="true" />
+      <created>1745562832786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745562832786</updated>
+    </task>
+    <task id="LOCAL-00002" summary="creation of assignment folder">
+      <option name="closed" value="true" />
+      <created>1745563309968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745563309968</updated>
+    </task>
+    <task id="LOCAL-00003" summary="checking if no. is even or odd">
+      <option name="closed" value="true" />
+      <created>1745563520346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745563520346</updated>
+    </task>
+    <task id="LOCAL-00004" summary="factorial by recursion">
+      <option name="closed" value="true" />
+      <created>1745564125697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745564125697</updated>
+    </task>
+    <task id="LOCAL-00005" summary="factorial by recursion">
+      <option name="closed" value="true" />
+      <created>1745564871579</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745564871579</updated>
+    </task>
+    <task id="LOCAL-00006" summary="factorial by use of for-loops">
+      <option name="closed" value="true" />
+      <created>1745571309237</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745571309237</updated>
+    </task>
+    <task id="LOCAL-00007" summary="reversing a string using a for loop">
+      <option name="closed" value="true" />
+      <created>1745572892092</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745572892092</updated>
+    </task>
+    <task id="LOCAL-00008" summary="summing digits a user inputs">
+      <option name="closed" value="true" />
+      <created>1745574123003</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745574123003</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creation of assignment folder" />
+    <MESSAGE value="checking if no. is even or odd" />
+    <MESSAGE value="factorial by recursion" />
+    <MESSAGE value="factorial by use of for-loops" />
+    <MESSAGE value="reversing a string using a for loop" />
+    <MESSAGE value="summing digits a user inputs" />
+    <option name="LAST_COMMIT_MESSAGE" value="summing digits a user inputs" />
   </component>
 </project>
